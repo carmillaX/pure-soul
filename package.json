@@ -1,0 +1,10 @@
+{
+  "name": "pure-soul",
+  "version": "1.0.0",
+  "description": "Mental Health Diagnostic Application",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
